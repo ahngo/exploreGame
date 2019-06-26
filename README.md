@@ -1,6 +1,6 @@
 # exploreGame
 
-Map-based game using pointers, classes and polymorphism. Randomly generates map tiles, map names and events that require player input in the form of a letter.
+Map-based game using pointers, classes and polymorphism written in C++. Randomly generates map tiles, map names and events that require player input in the form of a letter.
 
 Sample text from game, note that the game requests a prompt whenever the console prints "Your choice: ".
 
